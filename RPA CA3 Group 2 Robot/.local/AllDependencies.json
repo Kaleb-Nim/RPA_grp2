@@ -9087,15 +9087,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rxlee\\.nuget\\packages\\": {}
+    "C:\\Users\\Kaleb Nim\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "RPA CA3 Group 2 Robot",
       "projectName": "RPA CA3 Group 2 Robot",
-      "projectPath": "C:\\Users\\rxlee\\OneDrive\\Desktop\\Learning Resources\\Y2 SEM 1\\RPA\\CA3\\RPA CA3 git repo\\RPA CA3 Group 2 Robot\\.local",
-      "packagesPath": "C:\\Users\\rxlee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rxlee\\OneDrive\\Desktop\\Learning Resources\\Y2 SEM 1\\RPA\\CA3\\RPA CA3 git repo\\RPA CA3 Group 2 Robot\\.local"
+      "projectPath": "C:\\Users\\Kaleb Nim\\Documents\\GitHub\\RPA_grp2\\RPA CA3 Group 2 Robot\\.local",
+      "packagesPath": "C:\\Users\\Kaleb Nim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kaleb Nim\\Documents\\GitHub\\RPA_grp2\\RPA CA3 Group 2 Robot\\.local"
     },
     "frameworks": {
       "net461": {
@@ -9126,7 +9126,7 @@
             "version": "[22.4.5, 22.4.5]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\rxlee\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Kaleb Nim\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
