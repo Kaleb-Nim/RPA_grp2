@@ -241,8 +241,8 @@
         "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/Microsoft.Office.Interop.Word.dll",
         "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/Office.dll",
         "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/UiPath.Word.Activities.Design.dll",
-        "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/UiPath.Word.Activities.dll",
         "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/UiPath.Word.Activities.Package.dll",
+        "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/UiPath.Word.Activities.dll",
         "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib/net461/UiPath.Word.dll",
         "C:\\Users\\rxlee\\.nuget\\packages\\xceed.document.net\\2.0.21359.11160\\lib/net40/Xceed.Document.NET.dll",
         "C:\\Users\\rxlee\\.nuget\\packages\\xceed.pdf\\2.0.21359.11160\\lib/net40/Xceed.Pdf.dll",
@@ -2808,8 +2808,8 @@
         "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\Microsoft.Office.Interop.Word.dll",
         "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\Office.dll",
         "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\UiPath.Word.Activities.Design.dll",
-        "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\UiPath.Word.Activities.dll",
         "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\UiPath.Word.Activities.Package.dll",
+        "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\UiPath.Word.Activities.dll",
         "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1\\lib\\net461\\UiPath.Word.dll"
       ],
       "Path": "C:\\Users\\rxlee\\.nuget\\packages\\uipath.word.activities\\1.10.1"
