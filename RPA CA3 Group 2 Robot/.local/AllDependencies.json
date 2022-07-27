@@ -9615,13 +9615,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\rxlee\\OneDrive\\Desktop\\Learning Resources\\Y2 SEM 1\\RPA\\CA3\\RPA CA3 git repo\\RPA CA3 Group 2 Robot\\.local\\nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

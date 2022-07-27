@@ -116,13 +116,5 @@
     "C:\\Users\\rxlee\\.nuget\\packages\\xceed.pdf\\2.0.21359.11160\\xceed.pdf.2.0.21359.11160.nupkg.sha512",
     "C:\\Users\\rxlee\\.nuget\\packages\\xceed.words.net\\2.0.21359.11160\\xceed.words.net.2.0.21359.11160.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\rxlee\\OneDrive\\Desktop\\Learning Resources\\Y2 SEM 1\\RPA\\CA3\\RPA CA3 git repo\\RPA CA3 Group 2 Robot\\.local",
-      "message": "Problem reading the cache file C:\\Users\\rxlee\\OneDrive\\Desktop\\Learning Resources\\Y2 SEM 1\\RPA\\CA3\\RPA CA3 git repo\\RPA CA3 Group 2 Robot\\.local\\nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
